@@ -67,3 +67,9 @@ Examples for the booking management project:
 - The system should handle up to 500 simultaneous bookings.
 - Booking confirmation emails should be sent within 2 minutes.
 - The platform should be accessible 99.9% of the time.
+
+## Use Case Diagrams
+
+Use Case Diagrams visually represent system functionalities and the interactions between users (actors) and these functionalities (use cases). They help identify key requirements and ensure complete system understanding.
+
+![Use Case Diagram](./alx-booking-uc.png)
